@@ -1,4 +1,4 @@
-// program to check if a number is prime or not
+// program to check if a number is prime or not,
 
 // take input from the user
 const number = parseInt(prompt("Enter a positive number: "));
