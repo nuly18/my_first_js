@@ -1,5 +1,11 @@
 {
+  "name": "sonarqube_study",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
     "test": "jest --verbose"
+  },
+  "devDependencies": {
+    "jest": "^29.2.0"
   }
 }
